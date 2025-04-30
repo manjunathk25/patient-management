@@ -4,7 +4,7 @@ Content-Type: application/json
 
 {
     "name": "Tyler Durden",
-    "email": "tyler2@gmail.com",
+    "email": "tylerkafka@gmail.com",
     "address": "123 street fight club",
     "dateOfBirth": "1985-04-25",
     "registeredDate": "2025-04-23"
