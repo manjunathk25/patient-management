@@ -1,13 +1,12 @@
 ### PUT request to update patient
-PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174001
+PUT http://localhost:4004/api/patients/123e4567-e89b-12d3-a456-426614174001
 Content-Type: application/json
 
 {
   "name": "Tyler Durden",
-  "email": "tyler@gmail.com",
+  "email": "tyler56@gmail.com",
   "address": "123 street fight club",
   "dateOfBirth": "1985-04-25"
-
 }
 
 ###
